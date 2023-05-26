@@ -10,6 +10,10 @@ Pueden hacer lo que quieran...
 
 ### Hola mundo en Readme
 
+<<<<<<< HEAD
 ## Estos cambios son nuevos
 
 ### Desde GitHub
+=======
+## Estos cambios son nuevos desde mi repositorio local
+>>>>>>> a326a77 (Readme: local actualizado)
